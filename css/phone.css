@@ -1,0 +1,94 @@
+/* Navigation CSS */
+.navbar{
+    flex-direction: column;
+}
+.navbar .logo{
+    margin-top: 5px;
+}
+.navbar .nav-items li{
+    list-style: none;
+    padding: 0;
+    margin-left: 20px;
+}
+.navbar .nav-items li a{
+    padding: 3px;
+}
+
+
+/* HOME CSS */
+#image{
+    display: none;
+}
+#home .content .intro{
+    width: 100%;
+    margin-right: 0;
+}
+.intro h1{
+    font-size: 2rem;
+}
+
+
+
+/* SKILLS CSS */
+/* Skill1 CSS */
+.skill1{
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+#skills .skill1 .webimg1{
+    margin-right: 0;
+}
+.webimg1{
+    margin: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.skill1 .webimg1 img{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.skill-desc1{
+    padding: 0;
+    margin: 0;
+    max-width: fit-content;
+}
+
+
+/* Skill2 CSS */
+.skill2{
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+}
+.skill2 .webimg2 img{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 2px solid black;
+}
+
+#skills .skill2 .webimg2{
+    margin-left: 0;
+}
+
+.skill-desc2{
+    max-width: fit-content;
+    margin: 0px;
+}
+.skill-desc2{
+    width: 100%;
+    height: 100%;
+}
+
+#skills .skill2{
+    flex-direction: column;
+}
