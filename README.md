@@ -8,7 +8,7 @@ Sahil's Fully Responsive Portfolio
 <img src="screenshots/Desktop/4.png"><br><br>
 
 <h2>Screenshots for Mobile</h2>
-<img src="screenshota/Mobile/5.png"><br>
-<img src="screenshota/Mobile/6.png"><br>
-<img src="screenshota/Mobile/7.png"><br>
-<img src="screenshota/Mobile/8.png"><br>
+<img src="screenshots/Mobile/5.png"><br>
+<img src="screenshots/Mobile/6.png"><br>
+<img src="screenshots/Mobile/7.png"><br>
+<img src="screenshots/Mobile/8.png"><br>
